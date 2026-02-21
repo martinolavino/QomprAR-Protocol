@@ -32,5 +32,5 @@ Buscamos desarrolladores, diseñadores de UX y especialistas en legales/tokenomi
 ## 📄 Manifiesto y Roadmap
 *(Próximamente subiremos el Whitepaper completo)*
 
-**Contacto:** [TU_EMAIL_O_LINKEDIN]  
+**Contacto:** [(https://linkedin.com/martinlavini) ]
 **Estado del proyecto:** Fase Semilla / Búsqueda de Socios Fundadores.
