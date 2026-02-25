@@ -31,3 +31,4 @@ Buscamos programadores, diseñadores y personas con ganas de construir soberaní
 ---
 **Estado:** Fase Semilla / Definición de Arquitectura.  
 **Contacto:** [https://www.linkedin.com/in/martinlavini/]
+##
